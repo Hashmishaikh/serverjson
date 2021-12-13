@@ -1,0 +1,93 @@
+{
+  "employees": [
+    {
+      "name": "Error Boundariess",
+      "trfs": "Completed",
+      "updateId": 1,
+      "id": 1
+    },
+    {
+      "name": "Fromic and yup",
+      "trfs": "Completed",
+      "updateId": 2,
+      "id": 2
+    },
+    {
+      "name": "formit",
+      "trfs": "Completed",
+      "id": 3,
+      "updateId": 3
+    }
+  ],
+  "Users": [
+    {
+      "firstName": "Dungen",
+      "lastName": "Master",
+      "email": "dungen@d.com",
+      "password": "master",
+      "cpassword": "master",
+      "id": 1
+    },
+    {
+      "firstName": "Itachi",
+      "lastName": "Uchiha",
+      "email": "clanekiller@gmail.com",
+      "password": "itachiuchiha",
+      "cpassword": "itachiuchiha",
+      "id": 2
+    },
+    {
+      "firstName": "Rock",
+      "lastName": "Lee",
+      "email": "rocklee@lee.com",
+      "password": "tiejutsu",
+      "cpassword": "tiejutsu",
+      "id": 3
+    },
+    {
+      "firstName": "Neji",
+      "lastName": "hyuga",
+      "email": "neji@byku.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 4
+    }
+  ],
+  "Chart": [
+    {
+      "task": "8",
+      "month": "Jan",
+      "id": 1
+    },
+    {
+      "task": "13",
+      "month": "Feb",
+      "id": 2
+    },
+    {
+      "task": "20",
+      "month": "March",
+      "id": 3
+    },
+    {
+      "task": "23",
+      "month": "April",
+      "id": 4
+    },
+    {
+      "task": "12",
+      "month": "march",
+      "id": 5
+    },
+    {
+      "task": "14",
+      "month": "june",
+      "id": 6
+    },
+    {
+      "task": "12",
+      "month": "July",
+      "id": 7
+    }
+  ]
+}
